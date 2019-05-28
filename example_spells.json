@@ -1,0 +1,69 @@
+{
+  "Magisches etwas": {
+    "info": {
+      "type": "Illusion",
+      "grade": "5",
+      "ritual": false
+    },
+    "level": 5,
+    "tags": {
+      "preparation": {
+        "value": "1",
+        "unit": "Aktion",
+        "desc": "1 Aktion"
+      },
+      "range": "selbst",
+      "components": [
+        "G"
+      ],
+      "materials": "",
+      "duration": {
+        "value": "1",
+        "unit": "Stunde",
+        "concentration": true,
+        "desc": "Konzentration, bis zu 1 Stunde"
+      },
+      "source": "Sonstwoher"
+    },
+    "text": "Some description here",
+    "classes": [
+      "Barde",
+      "Magier"
+    ],
+    "page": 211
+  },
+  "Weiteres magisches etwas": {
+    "info": {
+      "type": "Nekromantie",
+      "grade": "5",
+      "ritual": false
+    },
+    "level": 5,
+    "tags": {
+      "preparation": {
+        "value": "1",
+        "unit": "Aktion",
+        "desc": "1 Aktion"
+      },
+      "range": "selbst",
+      "components": [
+        "G"
+      ],
+      "materials": "",
+      "duration": {
+        "value": "1",
+        "unit": "Tag",
+        "concentration": true,
+        "desc": "Konzentration, bis zu 1 Stunde"
+      },
+      "source": "Sonstwoher"
+    },
+    "text": "Some long description description here",
+    "text_card": "Additional text, used if available, place a shorter description in text_card",
+    "classes": [
+      "Barde",
+      "Magier"
+    ],
+    "page": 211
+  }
+}
